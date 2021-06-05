@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abhijeet141&show_icons=true&include_all_commits=true&theme=radical" alt="Abhijeet's github stats" />
-</a>
+![My stats](https://github-readme-stats.vercel.app/api?username=abhijeet141&show_icons=true&include_all_commits=true&theme=radical)
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet141&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet141"/></td></tr></table>
 
