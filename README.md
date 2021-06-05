@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![My stats](https://github-readme-stats.vercel.app/api?username=abhijeet141)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abhijeet141&show_icons=true&include_all_commits=true&theme=radical" alt="Abhijeet's github stats" />
 </a>
