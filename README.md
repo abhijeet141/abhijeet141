@@ -18,8 +18,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abhijeet141&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/abhijeet141/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/abhijeet141/github-stats-transparent/output/generated/languages.svg)
 
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=abhijeet141&show_icons=true&include_all_commits=true&theme=radical)
