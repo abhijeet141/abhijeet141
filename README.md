@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My stats](https://github-readme-stats.vercel.app/api?username=abhijeet141&show_icons=true&include_all_commits=true&theme=radical)
+![My stats](https://github-readme-stats.vercel.app/api?username=abhijeet141&show_icons=true&include_all_commits=true     &title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet141&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet141"/></td></tr></table>
 
