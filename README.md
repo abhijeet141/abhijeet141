@@ -18,7 +18,7 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=abhijeet141&show_icons=true&include_all_commits=true&theme=dark)
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet141&layout=compact&theme=dark"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet141&theme=dark"/></td></tr></table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet141&layout=compact&theme=dark"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet141&theme=radical"/></td></tr></table>
 
 ![Abhijeet's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhijeet141&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
 
