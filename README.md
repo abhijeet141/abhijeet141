@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Abhijeet Sinha</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center"></h3>
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![]
 
 <a href="https://twitter.com/Abhijee64915105">
   <img align="left" alt="Abhijeet Sinha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
